@@ -43,4 +43,6 @@ downaload [CH341PAR.EXE](CH341PAR.EXE)
 cut 5V trace, short pin header 3.3V - 5V, the device will be 3.3V IO and supply to CH341A chip.  
 ![cut_5V_trace.JPG](cut_5V_trace.JPG)  
 
+![cut_5V_trace_YJ.JPG](cut_5V_trace_YJ.JPG)  
+
 
