@@ -20,6 +20,7 @@ http://diybcq.com/thread-144131-1-1.html
 
 ### driver
 http://www.wch.cn/downloads/CH341PAR_EXE.html  
+http://www.wch.cn/downloads/CH341SER_EXE.html
 
 ### CH341PAR.EXE, USB programmer  
 CH341 	2.2 	2021-10-16 	269KB  
