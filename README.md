@@ -16,6 +16,7 @@ REF:
 
 https://bbs.pigoo.com/thread-84511-1-1.html  
 http://diybcq.com/thread-144131-1-1.html  
+https://www.onetransistor.eu/2017/08/ch341a-mini-programmer-schematic.html  
 
 
 ### driver
