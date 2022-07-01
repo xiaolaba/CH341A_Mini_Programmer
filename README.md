@@ -46,3 +46,8 @@ cut 5V trace, short pin header 3.3V - 5V, the device will be 3.3V IO and supply 
 ![cut_5V_trace_YJ.JPG](cut_5V_trace_YJ.JPG)  
 
 
+
+### theory and design consideration
+
+![CH341_MOD_3V3.JPG](CH341_MOD_3V3.JPG)  
+![CH341_MOD_3V3_SCHEMATIC.JPG](CH341_MOD_3V3_SCHEMATIC.JPG)  
