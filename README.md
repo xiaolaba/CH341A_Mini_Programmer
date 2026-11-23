@@ -2,11 +2,11 @@
 hardward, software used for  
 
 
-### sotfware used
+### software used
 https://github.com/xiaolaba/UsbAsp-flash_AsProgrammer  
 2.03a
 
-### 2026-11-23 try this, not working
+2026-11-23 try this software, not working
 https://github.com/bigbigmdm/IMSProg/issues/281
 
 
