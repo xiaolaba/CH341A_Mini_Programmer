@@ -6,6 +6,9 @@ hardward, software used for
 https://github.com/xiaolaba/UsbAsp-flash_AsProgrammer  
 2.03a
 
+### 2026-11-23 try this, not working
+https://github.com/bigbigmdm/IMSProg/issues/281
+
 
 ### hardward used
 CH341A Mini Programmer 土豪金  
