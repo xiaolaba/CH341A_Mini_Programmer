@@ -5,7 +5,7 @@ hardware, software used for
 ### update my schematic  
 port to KiCAD 8.0.9, no PCB done, only schematic  
 [CH341A_modified_MiniProgrammer](CH341A_modified_MiniProgrammer)  
-![CH341A_modified_MiniProgrammer\CH341A_modified_MiniProgrammer.kicad_sch.pdf](CH341A_modified_MiniProgrammer\CH341A_modified_MiniProgrammer.kicad_sch.pdf)  
+[CH341A_modified_MiniProgrammer/CH341A_modified_MiniProgrammer.kicad_sch.pdf](CH341A_modified_MiniProgrammer/CH341A_modified_MiniProgrammer.kicad_sch.pdf)  
 
 
 ### software used
