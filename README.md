@@ -12,7 +12,7 @@ port to KiCAD 8.0.9, no PCB done, only schematic
 https://github.com/xiaolaba/UsbAsp-flash_AsProgrammer  
 2.03a
 
-IMSProg  
+IMSProg (fork https://github.com/xiaolaba/IMSProg) 
 2026-11-23 try this software, not working ?!  
 https://github.com/bigbigmdm/IMSProg/issues/281, Q&A and solution,     
 done, short Jumper 1-2, bootstrap and programmer mode, USB VID_1A86 PID_5512  
