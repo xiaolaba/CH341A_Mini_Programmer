@@ -17,6 +17,8 @@ IMSProg (fork https://github.com/xiaolaba/IMSProg)
 https://github.com/bigbigmdm/IMSProg/issues/281, Q&A and solution,     
 done, short Jumper 1-2, bootstrap and programmer mode, USB VID_1A86 PID_5512  
 USB VID_1A86 PID_55523, it UART mode;  
+![CH341A_modified_MiniProgrammer/programmer_setup_done.JPG](CH341A_modified_MiniProgrammer/programmer_setup_done.JPG)  
+
 
 
 NeoProgrammer  
