@@ -4,14 +4,15 @@ hardware, software used for
 
 ### update my schematic  
 port to KiCAD 8.0.9, no PCB done, only schematic  
-[CH341A_modified_MiniProgrammer](CH341A_modified_MiniProgrammer)  
-[CH341A_modified_MiniProgrammer/CH341A_modified_MiniProgrammer.kicad_sch.pdf](CH341A_modified_MiniProgrammer/CH341A_modified_MiniProgrammer.kicad_sch.pdf)  
+[CH341A_modified_MiniProgrammer](CH341A_modified_MiniProgrammer)  KiCAD project files,  
+![CH341A_modified_MiniProgrammer/CH341A_modified_MiniProgrammer.kicad_sch.jpg](CH341A_modified_MiniProgrammer/CH341A_modified_MiniProgrammer.kicad_sch.jpg)  
 
 
 ### software used
 https://github.com/xiaolaba/UsbAsp-flash_AsProgrammer  
 2.03a
 
+IMSProg  
 2026-11-23 try this software, not working ?!  
 https://github.com/bigbigmdm/IMSProg/issues/281, Q&A and solution,     
 done, short Jumper 1-2, bootstrap and programmer mode, USB VID_1A86 PID_5512  
